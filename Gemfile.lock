@@ -120,7 +120,6 @@ GEM
       capybara (>= 2.1, < 4)
       cliver (~> 0.3.1)
       websocket-driver (>= 0.2.0)
-    prettier (0.20.1)
     public_suffix (4.0.6)
     puma (3.5.2)
     quiet_assets (1.0.3)
@@ -208,7 +207,7 @@ GEM
     turbolinks (5.0.0)
       turbolinks-source (~> 5)
     turbolinks-source (5.0.0)
-    tzinfo (1.2.7)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (3.0.0)
       execjs (>= 0.3.0, < 3)
@@ -245,7 +244,6 @@ DEPENDENCIES
   newrelic_rpm
   pg
   poltergeist
-  prettier
   puma
   quiet_assets
   rails (= 4.2.6)
